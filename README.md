@@ -32,7 +32,7 @@ The application provides four main modes:
 
 2. **Install required dependencies:**
    ```bash
-   pip install streamlit opencv-python mediapipe numpy pillow
+   pip install -r requirements.txt
    ```
 
 3. **Run the application:**
